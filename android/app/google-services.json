@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "798499785102",
+    "project_id": "oildelivery-156ff",
+    "storage_bucket": "oildelivery-156ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798499785102:android:5232bf384a56d3a5253cdf",
+        "android_client_info": {
+          "package_name": "com.example.oil_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6eiLIv0ZChjboNMGDIQqPnbkz7MBWPGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798499785102:android:a83dfb8b76da0bde253cdf",
+        "android_client_info": {
+          "package_name": "com.example.truk_oil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6eiLIv0ZChjboNMGDIQqPnbkz7MBWPGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
