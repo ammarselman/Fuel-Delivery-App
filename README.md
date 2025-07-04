@@ -1,6 +1,6 @@
 # truk_oil
 
-A new Flutter project.
+The project idea is an application to deliver fuel to the user with the use of a tracking system for fuel delivery, where Firebase was used with Flutter.
 
 ## Getting Started
 
